@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppkaCovid</string>
+    <string name="generalInfectionsText">Infekcje cały świat:</string>
+    <string name="generalDeathsText">Zgony cały świat:</string>
+    <string name="generalRecoveryText">Ozdrowienia cały świat:</string>
+
+    <string name="todayNewInfectionsText">Nowe infekcje Polska:</string>
+    <string name="todayNewDeathsText">Zgony dzisiaj Polska:</string>
+
+    <string name="todayDeathGenderMale">Zgony z podziałem na płeć:</string>
+    <string name="todayDeathGenderFemale">Zgony z podziałem na płeć:</string>
+
+    <string-array name="przedial">
+        <item>0-10 lat</item>
+        <item>11-20 lat</item>
+        <item>21-30 lat</item>
+        <item>31-40 lat</item>
+        <item>41-50 lat</item>
+        <item>51-60 lat</item>
+        <item>61-70 lat</item>
+        <item>71-80 lat</item>
+        <item>81+ lat</item>
+    </string-array>
+
+</resources>
